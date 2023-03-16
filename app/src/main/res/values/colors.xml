@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    gender color-->
+    <color name="red">#EB5757</color>
+    <color name="blue">#006AF6</color>
+
+    <!--    Type Animal -->
+    <color name="card">#F9F9F9</color>
+
+    <color name="cat_color">#1264C8</color>
+    <color name="dog_color">#C8B482</color>
+    <color name="bird_color">#DD1846</color>
+    <color name="snake_color">#797C46</color>
+    <color name="other_color">#8246BE</color>
+
+    <!--Text color-->
+    <color name="text">#1E3054</color>
+</resources>

@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tarucing Pet</string>
+
+    //Bottom Navigation
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_chat_celebrity">Celebrity Chat</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_about">About</string>
+
+    //Search
+    <string name="placeholder_search">Cari hewan favoritmu</string>
+    <string name="welcome_message">Selamat datang</string>
+    <string name="welcome_message_1">Tarucing Pet saat ini sedang mengembangkan aplikasi yang menarik. Silakan berselancar sesuka Anda.</string>
+
+    //Banner Home
+    <string name="banner_promotion">Promotion</string>
+    <string name="banner_promotion_1">Interesting Celebrity Pet</string>
+    <string name="banner_promotion_2">This Week Special Pet</string>
+    <string name="banner_promotion_3">Collection from beautiful lady, ANGGUN \nWith her cat \"June\" will playing piano \nToday.! \nAnd singing CHRYSALIS for us!</string>
+    <string name="list_pet_home_celebrity">Celebrity Pet</string>
+    <string name="list_pet_home_celebrity_more">More Celebrity Pet</string>
+
+    //Detail Page Information
+    <string name="detail_animal_info">Pet Info</string>
+    <string name="detail_animal_info_age">Age</string>
+    <string name="detail_animal_info_color">Color</string>
+    <string name="detail_animal_info_weight">Weight</string>
+    <string name="detail_animal_info_health">Health</string>
+
+    <string name="detal_animal_button_play">Play with me</string>
+
+    <string name="detail_animal_social">Pet Social Media</string>
+    <string name="detail_animal_about">About Pet</string>
+
+    <string name="animal_type_1">Cat</string>
+    <string name="animal_type_2">Dog</string>
+    <string name="animal_type_3">Bird</string>
+    <string name="animal_type_4">Snake</string>
+    <string name="animal_type_5">Others</string>
+
+    // Halaman Profile
+    <string name="profile_tarucing_title">Profile Saya</string>
+    <string name="profile_tarucing_name">Arif Lukman Bdg</string>
+    <string name="profile_tarucing_email">mataindahbolapingpong@gmail.com</string>
+    <string name="profile_tarucing_bio">Menikmati masa muda dengan bijaksana, memanfaatkan masa remaja dengan bijaksini.</string>
+    <string name="profile_tarucing_address">Bandung, Indonesia</string>
+    <string name="profile_tarucing_favorite">Anggun and Tom Cruise</string>
+    <string name="profile_tarucing_favorite_animal">Kucing</string>
+
+    // Halaman About
+    <string name="about_tarucing_0">Sampurasun</string>
+    <string name="about_tarucing_1">Perkenalkan kami dari Tarucing yang saat ini sedang mengembangkan berbagai aplikasi, salah satunya adalah aplikasi yang sedang Anda gunakan yaitu, Tarucing Pet.</string>
+    <string name="about_tarucing_2">Tarucing Pet adalah aplikasi koleksi hewan lucu peliharaan selebritis dunia. Untuk saat ini, koleksi-koleksi tersebut datang dari Angelina Jolie, Julia Roberts, Tom Cruise, Bruce Willis, dan Anggun.</string>
+    <string name="about_tarucing_3">Semoga Anda dapat menemukan koleksi-koleksi cantik dari peliharaan para selebritis dunia tersebut.</string>
+
+    <string name="error">Error</string>
+
+    //Development Mode
+    <string name="clickable_dev_detail">Come and see another time periodicly because this feature is on development right now.</string>
+
+    //Copyright
+    <string name="tarucing_copyright">Tarucing Corp. \n &#169;2023 Lukmanul Hakim. All rights reserved \nVersion 1.0.0 Beta Alpha India Kilo</string>
+</resources>
